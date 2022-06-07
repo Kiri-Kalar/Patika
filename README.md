@@ -1,5 +1,5 @@
-> Patika Eğitimleri
-    1. Herkes İçin Temel Dersler
-    2. GIT
-    3. Veri Yapıları ve Algoritmalar
-    4. Java101
+> Patika Eğitimleri <br /> 
+    1. Herkes İçin Temel Dersler <br /> 
+    2. GIT <br /> 
+    3. Veri Yapıları ve Algoritmalar <br /> 
+    4. Java101 <br /> 
