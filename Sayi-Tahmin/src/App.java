@@ -48,7 +48,7 @@ public class App {
         }
 
         if (!isWin) {
-            System.out.println("Kaybettiniz ! " + number);
+            System.out.println("Kaybettiniz ! Cevap: " + number);
             if (!isWrong) {
                 System.out.println("Tahminleriniz : " + Arrays.toString(wrong));
             }
